@@ -7,7 +7,7 @@ Created on Thu Dec  1 18:10:55 2022
 
 
 
-
+!pip install spectral
 import pandas as pd
 import numpy as np
 from spectral import *
